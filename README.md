@@ -14,4 +14,4 @@ more changes from myfeature branch too.
 Please fork tis repository and then issue Pull Requests for review.
 
 ###Copyright
-2022 Git.Training.
+2022 Git.Training. All right reserved
